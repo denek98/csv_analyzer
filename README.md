@@ -28,7 +28,7 @@ python wsgi.py
 
 ## Usage
 
-For using this application you must have a specific file structure in your main profect folder
+For using this application you must have a specific file structure in your main project folder
 ```text
 |---ZTE
 |    |GSMV3
